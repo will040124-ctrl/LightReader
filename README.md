@@ -4,6 +4,10 @@
 
 ![轻阅水彩阅读室](app/src/main/res/drawable-nodpi/watercolor_reading_room.png)
 
+[下载开源预览版](https://github.com/will040124-ctrl/LightReader/releases/tag/v1.0.0-preview.1) · [观看／下载宣传视频](https://github.com/will040124-ctrl/LightReader/releases/download/v1.0.0-preview.1/lightreader-promo-1080p60.mp4)
+
+预览 APK 使用测试签名；正式分发请使用自己的签名。完整漫画源导入步骤见 [漫画源与 Venera 说明](docs/COMIC_SOURCES.md)。
+
 ## 阅读体验
 
 - **小说**：书架、书籍详情、章节导航、书签、进度定位、连续阅读与位置记忆；支持拖动翻页、平移／覆盖效果和工具栏显隐。
