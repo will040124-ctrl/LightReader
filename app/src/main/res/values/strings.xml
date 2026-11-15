@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">轻阅</string>
+    <string name="widget_name">轻阅 · 继续阅读</string>
+    <string name="widget_description">从桌面继续上次阅读，配图和信息显示可在轻阅设置中调整</string>
+    <string name="widget_brand">轻阅 / 纸间有光</string>
+    <string name="widget_empty_title">把故事接着读下去</string>
+    <string name="widget_empty_subtitle">打开轻阅，选择一本喜欢的书</string>
+    <string name="widget_open">打开书架  ↗</string>
+</resources>

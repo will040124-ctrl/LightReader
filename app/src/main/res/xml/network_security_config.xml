@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- wenku8 是老站，存在 http 明文跳转；只对它开明文，其余一律 https -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">wenku8.net</domain>
+        <domain includeSubdomains="true">wenku8.com</domain>
+    </domain-config>
+</network-security-config>

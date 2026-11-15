@@ -1,0 +1,7 @@
+{
+  "name": "lightreader-comic-host-tools",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "build": "node build.mjs", "test": "node --test host.test.mjs" },
+  "devDependencies": { "linkedom": "0.18.12", "esbuild": "0.25.12" }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 水彩底板：取插画边缘水色的均值，前景留白处透出这一层也不会出现接缝 -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#6D7DC5" />
+</shape>

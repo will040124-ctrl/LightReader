@@ -1,0 +1,10 @@
+== book-100 ==
+title=魔界战记迪斯凯亚
+author=神代创
+catalogue=https://www.wenku8.net/novel/0/100/index.htm
+cover=http://img.wenku8.com/image/0/100/100s.jpg
+status=已完结
+updated=2015-03-25
+latest=第六卷 魔界大战 插图
+tags=[奇幻, 战斗, 冒险, 欢乐向]
+intro=魔王克里切夫斯寇伊的死亡冲击了整个魔界，为了镇压这混乱的情势，谜样的美少女艾特娜奔驰在魔界的大地上（明明知道名字还算是个谜吗），魔王死亡的真相究竟是？艾特娜又能否打倒幕后黑手呢？新系列「艾特娜流浪战记」开播纪念特别篇「新一代的魔王」即将登场

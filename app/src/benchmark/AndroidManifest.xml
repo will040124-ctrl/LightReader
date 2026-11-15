@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity android:name=".qa.PromoCaptureQaActivity" android:exported="true" />
+        <activity android:name=".qa.ReaderFormatsQaActivity" android:exported="true" />
+        <activity android:name=".qa.ReaderNavigationQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicPerformanceQaActivity" android:exported="true" />
+        <activity android:name=".qa.FinalUiQaActivity" android:exported="true" />
+        <activity android:name=".qa.PaperlightQaActivity" android:exported="true" />
+        <activity android:name=".qa.ShelfCacheQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicAvailabilityQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicOfflineQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicPublicQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicCompatQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicScriptQaActivity" android:exported="true" />
+        <activity android:name=".qa.ComicReaderQaActivity" android:exported="true" />
+        <activity android:name=".qa.AccountImportQaActivity" android:exported="true" />
+        <activity android:name=".qa.WebFetchQaActivity" android:exported="true" />
+        <profileable android:shell="true" />
+    </application>
+</manifest>
